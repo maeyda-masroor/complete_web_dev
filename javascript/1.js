@@ -1,1 +1,1 @@
-console.log(a);
+console.log(Math.floor(Math.random()+100));
