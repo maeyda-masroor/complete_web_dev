@@ -68,3 +68,65 @@ console.log("null",nulltonr);
 let strtonr1 = "";
 strtonr1   = Number(strtonr1);
 console.log("empty string",strtonr1,typeof strtonr1);
+let n3 = 2;
+let n4 ="5";
+console.log(n3+Number(n4));
+let str6 = 'law';
+let str7= 'sam';
+let val1 = undefined;
+let val2 = null;
+let mynum = 1000;
+console.log(str6,typeof str6);
+console.log(str7,typeof str7);
+
+let n7 = 12;
+let n8 = 13;
+let result1 = n7 + n8 ;
+console.log(result1);
+
+let string1 = "hello";
+let string2 = "world";
+console.log(string1+string2);
+
+let h = "maeyda";
+let age = 30;
+let codeJavascriptornot = true;
+console.log(`hello my name is ${h} , i am ${age} years old and i can code ` ,codeJavascriptornot===true);
+
+
+const a = 5 ; 
+const b = 10;
+console.log(a>0&&b>0);
+console.log(a==5 && b==4);
+console.log(true||false);
+console.log(a==3||b==4);
+
+let firstnum = 5;
+let secondnum  = 10;
+firstnum++;
+secondnum--;
+let total = ++firstnum + secondnum;
+console.log(`${total}`);
+let total2 = 500 + 100 / 5 +total--;
+console.log(total2);
+let result4 = 3 + 4 * 2 / 8;
+console.log(result4);
+let a1 = 5 ; 
+let b1 =70 ;
+let c1 = "5";
+b1++;
+console.log(b);
+let t  = 20;
+let h2 = 4;
+let string3 = "Hi";
+let ng = t - h2;
+let resylt = string3 - ng;
+console.log("the value of the variable is "+resylt);
+let n5 = 10 ; 
+let n6 = 3; 
+let result0 = n5 % n6 ;
+console.log(result0)
+let  i = 6; 
+let lk1 = 9 ; 
+let x = i + lk1;
+ 
